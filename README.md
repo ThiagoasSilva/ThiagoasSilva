@@ -2,6 +2,12 @@
 
 Sou estudante de Sistemas Informação no 4° período. 🖥
 
+Atualmente estou fazendo os seguintes cursos:
+
+- Curso de Java no [SENAI Taguatinga](https://www.senai.br/pt-br/cursos/brasilia/19886/236/java-avancado---versao-8) ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)
+
+- Curso de Backend Java na [Digital Innovation One (DIO)](https://digitalinnovation.one/) ![DIO](https://img.shields.io/badge/Digital_Innovation_One-DIO-green)
+
 Aspirante a desenvolvedor Fullstack ou como profissional na área da segurança da Informação.
 
 Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principalmente em outras linguagens de programação e outros a fim de conhecer mais desse mundo do desenvolvimento.
@@ -15,7 +21,6 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
-
 
 ##
 
