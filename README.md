@@ -15,8 +15,11 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 | Curso             | Oferecedor  |
 |-------------------|-------------|
 | [Bootcamp Java](https://digitalinnovation.one/)| ![DIO](https://img.shields.io/badge/Digital_Innovation_One-DIO-green)|
-| [Desenvolvedor Java](https://www.sistemafibra.org.br/senai/174-inovatech/1580-desenvolvedor-java)| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)       |
+| [Desenvolvedor Java](https://www.sistemafibra.org.br/senai/174-inovatech/1580-desenvolvedor-java)| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
 
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crowventh&layout=donut&langs_count=10&hide=Hack&theme=dark&custom_title=Linguagens%20mais%20utilizadas%20por%20mim)](https://github.com/crowventh/github-readme-stats)
 
 ### Habilidades & conhecimentos
 
@@ -35,3 +38,8 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 ##
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-silva-50a3ab204/)
+
+
+<div style="text-align: right;">
+  <img src="https://github.com/CrowvenTh/CrowvenTh/blob/main/crow.gif" alt="Corvo saudoso" width="200" height="200">
+</div>
