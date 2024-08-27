@@ -37,8 +37,6 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
-## Jogo da Cobrinha Interativo
-
 ![Animação do Jogo da Cobrinha](https://Crowventh.github.io/github-contribution-grid-snake2.svg)
 
 ---
