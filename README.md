@@ -6,7 +6,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 - 🚀 Estudante no 4° período de Sistemas Informação 🖥
 - 👾 Atualmente estudo programação Backend com Java ☕
 - ✉ thiagoantonio2108@gmail.com 📧
-- 🌎 Brasília, DF 🟢🟡
+- 🌎 Brasília, DF 📍
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-silva-50a3ab204/)
 ---
