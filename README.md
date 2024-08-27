@@ -39,13 +39,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 
 ## Jogo da Cobrinha Interativo
 
-![Animação do Jogo da Cobrinha](https://crowventh.github.io/github-contribution-grid-snake2.svg)
-
-Esta é a animação do jogo da cobrinha gerada automaticamente com base nas suas contribuições no GitHub.
-
-
-
-![Animação do Jogo da Cobrinha](https://github.com/CrowvenTh/CrowvenTh/blob/main/dist/github-contribution-grid-snake2.svg)
+![Animação do Jogo da Cobrinha](https://Crowventh.github.io/github-contribution-grid-snake2.svg)
 
 ---
 
