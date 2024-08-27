@@ -1,4 +1,4 @@
-# Sobre mim 👻
+# Sobre mim 
 
 Me chamo **Thiago Silva** e sou aspirante a desenvolvedor Backend, Fullstack ou/e profissional na área da segurança da Informação.
 
@@ -37,8 +37,10 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
+![snake animation](https://github.com/<crowventh>/<crowventh>/blob/output/github-contribution-grid-snake2.svg)
+
 ---
 
 <div style="text-align: right;">
-  <img src="https://github.com/CrowvenTh/CrowvenTh/blob/main/crow.gif" alt="Corvo saudoso" width="200" height="200">
+  <img src="https://github.com/crowvenTh/crowvenTh/blob/main/crow.gif" alt="Corvo saudoso" width="200" height="200">
 </div>
