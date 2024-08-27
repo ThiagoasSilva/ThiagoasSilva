@@ -1,3 +1,5 @@
+<img  width="100%" height="600px" src="https://github.com/CrowvenTh/CrowvenTh/blob/main/background.png">
+
 # Sobre mim 👻
 Me chamo **Thiago Silva** e sou aspirante a desenvolvedor Backend, Fullstack ou/e profissional na área da segurança da Informação.
 
