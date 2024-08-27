@@ -28,6 +28,16 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 
 ### Habilidades & conhecimentos
 
+### Java
+| Conteúdo                              |
+|---------------------------------------|
+| Fundamentos de Tecnologia da Informação |
+| Fundamentos de Sistema Operacional    |
+| Versionamento                         |
+| Lógica de Programação                 |
+| Sintaxe Java                          |
+| Banco de Dados                        |
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
