@@ -37,8 +37,12 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
-#1
-![snake animation](https://github.com/<crowventh>/<crowventh>/blob/output/github-contribution-grid-snake2.svg)
+## Jogo da Cobrinha Interativo
+
+![Animação do Jogo da Cobrinha](https://crowventh.github.io/github-contribution-grid-snake2.svg)
+
+Esta é a animação do jogo da cobrinha gerada automaticamente com base nas suas contribuições no GitHub.
+
 
 
 ![Animação do Jogo da Cobrinha](https://github.com/CrowvenTh/CrowvenTh/blob/main/dist/github-contribution-grid-snake2.svg)
