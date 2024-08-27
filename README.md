@@ -1,26 +1,36 @@
-## CrowvenTh | Thiago Silva 
+# Sobre mim 👻
+Me chamo **Thiago Silva** e sou aspirante a desenvolvedor Backend, Fullstack ou/e profissional na área da segurança da Informação.
 
-Sou estudante de Sistemas Informação no 4° período. 🖥
+Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principalmente em outras linguagens de programação afim de conhecer mais desse mundo do desenvolvimento. 
 
-Atualmente estou fazendo os seguintes cursos:
+- 🚀 Estudante no 4° período de Sistemas Informação 🖥
+- 👾 Atualmente estudo programação Backend com Java
+- ✉ thiagoantonio2108@gmail.com
+- 🌎 Brasília, DF
 
-- Curso de Java no [SENAI Taguatinga](https://www.senai.br/pt-br/cursos/brasilia/19886/236/java-avancado---versao-8) ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)
+---
 
-- Curso de Backend Java na [Digital Innovation One (DIO)](https://digitalinnovation.one/) ![DIO](https://img.shields.io/badge/Digital_Innovation_One-DIO-green)
+### Cursos
 
-Aspirante a desenvolvedor Fullstack ou como profissional na área da segurança da Informação.
+| Curso             | Oferecedor  |
+|-------------------|-------------|
+| [Bootcamp Java](https://digitalinnovation.one/)| ![DIO](https://img.shields.io/badge/Digital_Innovation_One-DIO-green)|
+| [Desenvolvedor Java](https://www.sistemafibra.org.br/senai/174-inovatech/1580-desenvolvedor-java)| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)       |
 
-Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principalmente em outras linguagens de programação e outros a fim de conhecer mais desse mundo do desenvolvimento.
+
+### Habilidades & conhecimentos
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
+
 
 ##
 
