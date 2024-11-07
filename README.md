@@ -11,7 +11,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-silva-50a3ab204/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crowventh&layout=donut&langs_count=10&hide=Hack&Python&python&theme=dark&custom_title=Linguagens%20mais%20utilizadas%20por%20mim)](https://github.com/crowventh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crowventh&layout=donut&langs_count=10&hide=Hack&Python&python&venv&Venv&theme=dark&custom_title=Linguagens%20mais%20utilizadas%20por%20mim)](https://github.com/crowventh/github-readme-stats)
 
 ##
 
