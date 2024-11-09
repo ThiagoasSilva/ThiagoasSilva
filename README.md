@@ -22,11 +22,13 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 | [Bootcamp Java](https://digitalinnovation.one/)| ![DIO](https://img.shields.io/badge/Digital_Innovation_One-DIO-green)|
 | [Desenvolvedor Java](https://www.sistemafibra.org.br/senai/174-inovatech/1580-desenvolvedor-java)| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
 | [Administrador de Banco de Dados]()| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
+| [Programador FullStack]()| ![SENAI EAD](https://img.shields.io/badge/SENAI-EAD-red)|
 
 ### Habilidades & conhecimentos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
