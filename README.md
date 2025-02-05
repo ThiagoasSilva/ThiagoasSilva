@@ -4,7 +4,7 @@ Me chamo **Thiago Silva** e sou aspirante a desenvolvedor Backend, Fullstack ou/
 
 Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principalmente em outras linguagens de programação afim de conhecer mais desse mundo do desenvolvimento.
 
-- 🚀 Estudante no 4° período de Sistemas Informação 🖥
+- 🚀 Estudante no 5° período de Sistemas Informação 🖥
 - 👾 Atualmente estudo programação Backend com Java ☕
 - ✉ thiagoantonio2108@gmail.com 📧
 - 🌎 Brasília, DF 📍
