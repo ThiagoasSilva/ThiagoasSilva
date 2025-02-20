@@ -24,6 +24,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 | [Desenvolvedor Java](https://www.sistemafibra.org.br/senai/174-inovatech/1580-desenvolvedor-java)| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
 | [Administrador de Banco de Dados]()| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
 | [Programador FullStack]()| ![SENAI EAD](https://img.shields.io/badge/SENAI-EAD-red)|
+| [Programador de sistemas](https://github.com/CrowvenTh/SenacDS)| ![SENAC Taguatinga](https://img.shields.io/badge/SENAC-Taguatinga-blue)|
 
 ### Habilidades & conhecimentos
 
