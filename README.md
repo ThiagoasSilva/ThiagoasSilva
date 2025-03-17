@@ -22,7 +22,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 | [Bootcamp Java](https://digitalinnovation.one/)| ![DIO](https://img.shields.io/badge/Digital_Innovation_One-DIO-green)|
 | [Desenvolvedor Java](https://www.sistemafibra.org.br/senai/174-inovatech/1580-desenvolvedor-java)| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
 | [Administrador de Banco de Dados]()| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
-| [Programador de sistemas](https://github.com/CrowvenTh/SenacDS)| ![SENAC Taguatinga](https://img.shields.io/badge/SENAC-Taguatinga-blue)|
+| [Programador de sistemas](https://github.com/CrowvenTh/SenacDS)| ![SENAC Taguatinga](https://img.shields.io/badge/SENAC-Taguatinga-red)|
 
 ### Habilidades & 
 
