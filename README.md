@@ -44,10 +44,6 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 
 ---
 
-![Animação do Jogo da Cobrinha](https://Crowventh.github.io/github-contribution-grid-snake2.svg)
-
----
-
 <div style="text-align: right;">
   <img src="https://github.com/crowvenTh/crowvenTh/blob/main/crow.gif" alt="Corvo saudoso" width="200" height="200">
 </div>
