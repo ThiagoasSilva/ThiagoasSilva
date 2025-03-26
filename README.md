@@ -11,7 +11,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-silva-50a3ab204/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crowventh&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=15&custom_title=Linguagens%20mais%20utilizadas%20por%20mim)](https://github.com/crowventh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=15&custom_title=Linguagens%20mais%20utilizadas%20por%20mim)](https://github.com/thiagoassilva/github-readme-stats)
 
 ##
 
@@ -22,7 +22,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 | [Bootcamp Java](https://digitalinnovation.one/)| ![DIO](https://img.shields.io/badge/Digital_Innovation_One-DIO-green)|
 | [Desenvolvedor Java](https://www.sistemafibra.org.br/senai/174-inovatech/1580-desenvolvedor-java)| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
 | [Administrador de Banco de Dados]()| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
-| [Programador de sistemas](https://github.com/CrowvenTh/SenacDS)| ![SENAC Taguatinga](https://img.shields.io/badge/SENAC-Taguatinga-red)|
+| [Programador de sistemas](https://github.com/thiagoassilva/SenacDS)| ![SENAC Taguatinga](https://img.shields.io/badge/SENAC-Taguatinga-red)|
 
 ### Habilidades & 
 
@@ -45,7 +45,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 ---
 
 <div style="text-align: right;">
-  <img src="https://github.com/crowvenTh/crowvenTh/blob/main/crow.gif" alt="Corvo saudoso" width="200" height="200">
+  <img src="https://github.com/thiagoassilva/thiagoassilva/blob/main/crow.gif" alt="Corvo saudoso" width="200" height="200">
 </div>
 
 ---
