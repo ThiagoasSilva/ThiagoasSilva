@@ -24,7 +24,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 | [Administrador de Banco de Dados]()| ![SENAI Taguatinga](https://img.shields.io/badge/SENAI-Taguatinga-blue)|
 | [Programador de sistemas](https://github.com/thiagoassilva/SenacDS)| ![SENAC Taguatinga](https://img.shields.io/badge/SENAC-Taguatinga-red)|
 
-### Habilidades & 
+### Habilidades 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
