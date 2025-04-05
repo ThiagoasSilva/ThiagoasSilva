@@ -9,7 +9,7 @@ Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principa
 - ✉ thiagoantonio2108@gmail.com 📧
 - 🌎 Brasília, DF 📍
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-silva-50a3ab204/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassilva/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=15&custom_title=Linguagens%20mais%20utilizadas%20por%20mim)](https://github.com/thiagoassilva/github-readme-stats)
 
