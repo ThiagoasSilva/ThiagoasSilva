@@ -1,6 +1,6 @@
 # Sobre mim
 
-Me chamo **Thiago** e sou aspirante a desenvolvedor Backend, Fullstack ou/e profissional na área da segurança da Informação.
+Me chamo **Thiago** e estou me aprimorando como desenvolvedor Backend. Tenho interesse nas áreas de desenvolvimento fullstack, banco de dados e segurança da informação.
 
 Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principalmente em outras linguagens de programação afim de conhecer mais desse mundo do desenvolvimento.
 
