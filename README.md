@@ -1,10 +1,10 @@
 # Sobre mim
 
-Me chamo **Thiago** e estou me aprimorando como desenvolvedor Backend. Tenho interesse nas áreas de desenvolvimento fullstack, banco de dados e segurança da informação.
+Me chamo **Thiago** e estou me aprimorando como desenvolvedor Backend. Interessado em desenvolvimento fullstack, banco de dados e segurança da informação, sigo consolidando conhecimento com objetivos de crescimento profissional e pessoal.
 
 Atualmente busco ampliar meu conhecimento na área de desenvolvimento e principalmente em outras linguagens de programação afim de conhecer mais desse mundo do desenvolvimento.
 
-- 🚀 Estudante no 5° período de Sistemas Informação 🖥
+- 🚀 Estudante no 7° período de Sistemas Informação 🖥
 - 👾 Atualmente estudo programação Backend com Java ☕
 - ✉ thiagoantonio2108@gmail.com 📧
 - 🌎 Brasília, DF 📍
