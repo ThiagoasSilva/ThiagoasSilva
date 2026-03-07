@@ -35,13 +35,13 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 
 ### Linguagens mais utilizadas
 
-[![Top Langs](https://github-readme-stats-th.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=1&custom_title=Linguagens%20mais%20utilizadas%20por%20mim&card_width=430)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-th.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=1&custom_title=Linguagens%20mais%20utilizadas%20por%20mim&card_width=430&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="./midia/crow.gif" alt="Corvo saudoso" width="200" height="200"> -->
 
 <!-- <img src="./midia/flying-crow.gif" alt="Corvo voando" width="100%" height="500"> -->
 
-<img src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="Corvo voando" width="100%" height="400">
+<img src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="knight" width="100%" height="400">
 
 
 ---
