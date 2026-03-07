@@ -1,9 +1,10 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="210" valign="middle">
+<td width="210" valign="middle" border="0">
   <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190"/>
 </td>
-<td valign="top">
+<td valign="top" border="0">
+
 
 ## ⚙️ Sobre mim <img src="https://flagcdn.com/h20/br.png" height="20" alt="BR"/>
 < Me chamo **Thiago**, sou desenvolvedor Backend com foco em Java e no ecossistema Spring Boot, apaixonado por construir APIs robustas, escaláveis e seguras. Tenho interesse em desenvolvimento Fullstack, banco de dados relacionais e não-relacionais,segurança da informação, sistemas operacionais e inteligência artificial.
@@ -34,11 +35,14 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 
 ### Linguagens mais utilizadas
 
-[![Top Langs](https://github-readme-stats-academic.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=15&custom_title=Linguagens%20mais%20utilizadas%20por%20mim)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+[![Top Langs](https://github-readme-stats-th.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=1&custom_title=Linguagens%20mais%20utilizadas%20por%20mim&card_width=430)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="./midia/crow.gif" alt="Corvo saudoso" width="200" height="200"> -->
 
-<img src="./midia/flying-crow.gif" alt="Corvo voando" width="100%" height="400">
+<!-- <img src="./midia/flying-crow.gif" alt="Corvo voando" width="100%" height="500"> -->
+
+<img src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="Corvo voando" width="100%" height="400">
+
 
 ---
 
