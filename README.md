@@ -1,19 +1,15 @@
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="210" valign="middle" border="0">
-  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190"/>
-</td>
-<td valign="top" border="0">
+<img align="left" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190" pacing="20"/>
+<br>
 
+### ⚙️ Sobre mim <img src="https://flagcdn.com/h20/br.png" height="20" alt="BR"/>
 
-## ⚙️ Sobre mim <img src="https://flagcdn.com/h20/br.png" height="20" alt="BR"/>
-< Me chamo **Thiago**, sou desenvolvedor Backend com foco em Java e no ecossistema Spring Boot, apaixonado por construir APIs robustas, escaláveis e seguras. Tenho interesse em desenvolvimento Fullstack, banco de dados relacionais e não-relacionais,segurança da informação, sistemas operacionais e inteligência artificial.
+---
 
-Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potencial no desenvolvimento de soluções voltadas à Inteligência Artificial e Machine Learning, com atenção especial ao uso de ferramentas como N8N para automação de fluxos inteligentes e escaláveis utilizando de databases como Pinecone, Supabase, Qdrant, Pgvector, MongoDB Atlas Vector Search para realizar buscas vetoriais em aplicações de IA. Também venho expandindo minha stack com tecnologias como PostgreSQL, MongoDB, SpringAI, Docker e desenvolvimento Android, buscando uma visão cada vez mais completa do ciclo de desenvolvimento moderno. /> 💻
+Me chamo **Thiago**, sou desenvolvedor Backend com foco em Java e no ecossistema Spring Boot, apaixonado por construir APIs robustas, escaláveis e seguras. Tenho interesse em desenvolvimento Fullstack, banco de dados relacionais e não-relacionais, segurança da informação, sistemas operacionais e inteligência artificial.
 
-</td>
-</tr>
-</table>
+Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potencial no desenvolvimento de soluções voltadas à Inteligência Artificial e Machine Learning, com atenção especial ao uso de ferramentas como N8N para automação de fluxos inteligentes e escaláveis utilizando databases como Pinecone, Supabase, Qdrant, Pgvector, MongoDB Atlas Vector Search para realizar buscas vetoriais em aplicações de IA. Também venho expandindo minha stack com tecnologias como PostgreSQL, MongoDB, SpringAI, Docker e desenvolvimento Android, buscando uma visão cada vez mais completa do ciclo de desenvolvimento moderno. 💻
+
+<br clear="left"/>
 
 ### 🎓 *Formação Acadêmica* 📜
 
@@ -33,16 +29,11 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 <img src="https://flagcdn.com/h20/us.png" height="20" alt="English"/>
 <img src="https://flagcdn.com/h20/es.png" height="20" alt="Español"/>
 
-### Linguagens mais utilizadas
+---
 
 [![Top Langs](https://github-readme-stats-th.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=1&custom_title=Linguagens%20mais%20utilizadas%20por%20mim&card_width=430&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <img src="./midia/crow.gif" alt="Corvo saudoso" width="200" height="200"> -->
-
-<!-- <img src="./midia/flying-crow.gif" alt="Corvo voando" width="100%" height="500"> -->
-
-<img src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="knight" width="100%" height="400">
-
+<img src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="Corvo voando" width="100%" height="400">
 
 ---
 
@@ -86,6 +77,5 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e6ca9e36738259.5727c4e790a74.gif" alt="knight-pixel-art" width="100%">
 
 ---
-
 
 **<p align="center">@2026</p>**
