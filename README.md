@@ -1,7 +1,4 @@
-<br>
-
-
-## ⚙️ Sobre mim <img src="https://flagcdn.com/h20/br.png" height="20" alt="BR"/>
+# ⚙️ Sobre mim <img src="https://flagcdn.com/h20/br.png" height="20" alt="BR"/>
 
 <img align="right" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190" height="190" pacing="20"/>
 
@@ -9,6 +6,16 @@
 < Me chamo **Thiago**, sou desenvolvedor Backend com foco em Java e no ecossistema Spring Boot, apaixonado por construir APIs robustas, escaláveis e seguras. Tenho interesse em desenvolvimento Fullstack, banco de dados relacionais e não-relacionais, segurança da informação, redes, sistemas operacionais e inteligência artificial.
 
 Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potencial no desenvolvimento de soluções voltadas à Inteligência Artificial e Machine Learning, com atenção especial ao uso de ferramentas como N8N para automação de fluxos inteligentes e escaláveis utilizando databases como Pinecone, Supabase, Qdrant, Pgvector, MongoDB Atlas Vector Search para realizar buscas vetoriais em aplicações de IA. Também venho expandindo minha stack com tecnologias como PostgreSQL, MongoDB, SpringAI, Docker e desenvolvimento Android, buscando uma visão cada vez mais completa do ciclo de desenvolvimento moderno. /> 💻
+
+
+
+### Contato
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoantonio2108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassilva/)
+
+### Idiomas
+<img src="https://flagcdn.com/h20/us.png" height="20" alt="English"/> <img src="https://flagcdn.com/h20/es.png" height="20" alt="Español"/>
+#### 🌎 Brasília, DF📍
 
 ---
 <br clear="left"/>
@@ -20,19 +27,8 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 </div>
 
 #### 📚 Bacharelado em sistemas de informação, cursando o 7° semestre acadêmico 🖥🖥️
-#### 📍 Brasília, DF 🌎 
-
-
-### Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoantonio2108@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassilva/)
-
-### Idiomas
-<img src="https://flagcdn.com/h20/us.png" height="20" alt="English"/> <img src="https://flagcdn.com/h20/es.png" height="20" alt="Español"/>
 
 ---
-
-[![Top Langs](https://github-readme-stats-th.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=1&custom_title=Linguagens%20mais%20utilizadas%20por%20mim&card_width=430&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="Corvo voando" width="100%" height="400">
 
@@ -49,6 +45,12 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [MongoDB for SQL Pros](https://learn.mongodb.com/) | ![MongoDB University](https://img.shields.io/badge/MongoDB_University-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [MongoDB Basics (M001)](https://learn.mongodb.com/) | ![MongoDB University](https://img.shields.io/badge/MongoDB_University-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [MongoDB Atlas Administration (M103)](https://learn.mongodb.com/) | ![MongoDB University](https://img.shields.io/badge/MongoDB_University-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) |
+
+---
+
+[![Top Langs](https://github-readme-stats-th.vercel.app/api/top-langs/?username=thiagoassilva&layout=donut&langs_count=10&hide=Hack&bg_color=00000000&theme=dark&border_radius=1&custom_title=Linguagens%20mais%20utilizadas%20por%20mim&card_width=430&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Habilidades & Conhecimentos
 
