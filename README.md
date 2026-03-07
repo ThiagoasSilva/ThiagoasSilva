@@ -1,14 +1,15 @@
-<img align="left" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190" height="190" pacing="20"/>
 <br>
+
+<img align="right" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190" height="190" pacing="20"/>
 
 ### ⚙️ Sobre mim <img src="https://flagcdn.com/h20/br.png" height="20" alt="BR"/>
 
+
+< Me chamo **Thiago**, sou desenvolvedor Backend com foco em Java e no ecossistema Spring Boot, apaixonado por construir APIs robustas, escaláveis e seguras. Tenho interesse em desenvolvimento Fullstack, banco de dados relacionais e não-relacionais, segurança da informação, sistemas operacionais e inteligência artificial.
+
+Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potencial no desenvolvimento de soluções voltadas à Inteligência Artificial e Machine Learning, com atenção especial ao uso de ferramentas como N8N para automação de fluxos inteligentes e escaláveis utilizando databases como Pinecone, Supabase, Qdrant, Pgvector, MongoDB Atlas Vector Search para realizar buscas vetoriais em aplicações de IA. Também venho expandindo minha stack com tecnologias como PostgreSQL, MongoDB, SpringAI, Docker e desenvolvimento Android, buscando uma visão cada vez mais completa do ciclo de desenvolvimento moderno. /> 💻
+
 ---
-
-Me chamo **Thiago**, sou desenvolvedor Backend com foco em Java e no ecossistema Spring Boot, apaixonado por construir APIs robustas, escaláveis e seguras. Tenho interesse em desenvolvimento Fullstack, banco de dados relacionais e não-relacionais, segurança da informação, sistemas operacionais e inteligência artificial.
-
-Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potencial no desenvolvimento de soluções voltadas à Inteligência Artificial e Machine Learning, com atenção especial ao uso de ferramentas como N8N para automação de fluxos inteligentes e escaláveis utilizando databases como Pinecone, Supabase, Qdrant, Pgvector, MongoDB Atlas Vector Search para realizar buscas vetoriais em aplicações de IA. Também venho expandindo minha stack com tecnologias como PostgreSQL, MongoDB, SpringAI, Docker e desenvolvimento Android, buscando uma visão cada vez mais completa do ciclo de desenvolvimento moderno. 💻
-
 <br clear="left"/>
 
 ### 🎓 *Formação Acadêmica* 📜
