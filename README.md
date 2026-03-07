@@ -1,4 +1,4 @@
-<img align="left" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190" pacing="20"/>
+<img align="left" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190" height="190" pacing="20"/>
 <br>
 
 ### ⚙️ Sobre mim <img src="https://flagcdn.com/h20/br.png" height="20" alt="BR"/>
