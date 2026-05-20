@@ -58,6 +58,7 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> &nbsp;
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -77,7 +78,7 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 
 ---
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e6ca9e36738259.5727c4e790a74.gif" alt="knight-pixel-art" width="100%">
+<img src="midia/knight.gif" alt="knight-pixel-art" width="100%">
 
 ---
 
