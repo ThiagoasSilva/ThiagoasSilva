@@ -7,12 +7,12 @@
 
 Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potencial no desenvolvimento de soluções voltadas à Inteligência Artificial e Machine Learning, com atenção especial ao uso de ferramentas como N8N para automação de fluxos inteligentes e escaláveis utilizando databases como Pinecone, Supabase, Qdrant, Pgvector, MongoDB Atlas Vector Search para realizar buscas vetoriais em aplicações de IA. Também venho expandindo minha stack com tecnologias como PostgreSQL, MongoDB, SpringAI, Docker e desenvolvimento Android, buscando uma visão cada vez mais completa do ciclo de desenvolvimento moderno. /> 💻
 
-
 <img align="right" src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="tux-dev" width="350" height="190" pacing="20"/>
 
 ### Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoantonio2108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassilva/)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thiagoassilva)
 
 
 ### Idiomas
@@ -34,8 +34,12 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 
 <!-- <img src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="Corvo voando" width="100%" height="400"> -->
 
-### Cursos
+### Certificações
+| Badge | Oferecedor | Nome | Status |
+|---|---|---|---|
+| <img src="assets/oci_1Z0-1085-25_badge.png" width="80"/> | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25)](https://education.oracle.com/oracle-cloud-infrastructure-2025-foundations-associate/pexam_1Z0-1085-25) | Concluída ✅ |
 
+### Cursos
 | Tecnologia | Curso | Oferecedor |
 |---|---|---|
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | [Bootcamp Java](https://digitalinnovation.one/) | ![DIO](https://img.shields.io/badge/Digital_Innovation_One-00b8d9?style=for-the-badge&logo=d&logoColor=white) |
@@ -45,6 +49,8 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [MongoDB for SQL Pros](https://learn.mongodb.com/) | ![MongoDB University](https://img.shields.io/badge/MongoDB_University-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [MongoDB Basics (M001)](https://learn.mongodb.com/) | ![MongoDB University](https://img.shields.io/badge/MongoDB_University-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [MongoDB Atlas Administration (M103)](https://learn.mongodb.com/) | ![MongoDB University](https://img.shields.io/badge/MongoDB_University-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [Oracle Cloud Infrastructure Foundations](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) | ![Oracle MyLearn](https://img.shields.io/badge/Oracle_MyLearn-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [Oracle Cloud Infrastructure Foundations Associate (Oracle University Lab)](https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056) | ![Oracle MyLearn](https://img.shields.io/badge/Oracle_MyLearn-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 
 ---
 
@@ -78,6 +84,12 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4081?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Pgvector](https://img.shields.io/badge/Pgvector-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## ☁️ Cloud
+
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
