@@ -114,7 +114,7 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 
 ---
 
-<img src="midia/knight.gif" alt="knight-pixel-art" width="100%">
+<img src="midia/knight-rest.gif" alt="knight-pixel-art" width="100%">
 
 ---
 
