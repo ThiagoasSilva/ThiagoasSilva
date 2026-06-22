@@ -2,7 +2,6 @@
 
 <img align="right" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="tux-dev" width="190" height="190" pacing="20"/>
 
-
 < Me chamo **Thiago**, sou desenvolvedor Backend com foco em Java e no ecossistema Spring Boot, apaixonado por construir APIs robustas, escaláveis e seguras. Tenho interesse em desenvolvimento Fullstack, banco de dados relacionais e não-relacionais, segurança da informação, redes, sistemas operacionais e inteligência artificial.
 
 Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potencial no desenvolvimento de soluções voltadas à Inteligência Artificial e Machine Learning, com atenção especial ao uso de ferramentas como N8N para automação de fluxos inteligentes e escaláveis utilizando databases como Pinecone, Supabase, Qdrant, Pgvector, MongoDB Atlas Vector Search para realizar buscas vetoriais em aplicações de IA. Também venho expandindo minha stack com tecnologias como PostgreSQL, MongoDB, SpringAI, Docker e desenvolvimento Android, buscando uma visão cada vez mais completa do ciclo de desenvolvimento moderno. /> 💻
@@ -10,10 +9,9 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 <img align="right" src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="tux-dev" width="350" height="190" pacing="20"/>
 
 ### Contato
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thiagoassilva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoantonio2108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassilva/)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thiagoassilva)
-
 
 ### Idiomas
 <img src="https://flagcdn.com/h20/us.png" height="20" alt="English"/> <img src="https://flagcdn.com/h20/es.png" height="20" alt="Español"/>
@@ -35,9 +33,9 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 <!-- <img src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="Corvo voando" width="100%" height="400"> -->
 
 ### Certificações
-| Badge | Oferecedor | Nome | Status |
-|---|---|---|---|
-| <img src="assets/oci_1Z0-1085-25_badge.png" width="80"/> | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25)](https://education.oracle.com/oracle-cloud-infrastructure-2025-foundations-associate/pexam_1Z0-1085-25) | Concluída ✅ |
+| Badge | Nome | Oferecedor |
+|---|---|---|
+| <img src="midia/oci_1Z0-1085-25_badge.png" width="80"/> | [Oracle Cloud Infrastructure 2025 Foundations Associate (1Z0-1085-25)](https://education.oracle.com/oracle-cloud-infrastructure-2025-foundations-associate/pexam_1Z0-1085-25) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 
 ### Cursos
 | Tecnologia | Curso | Oferecedor |
