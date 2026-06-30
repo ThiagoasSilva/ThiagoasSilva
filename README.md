@@ -9,7 +9,7 @@ Atualmente aprofundo meus estudos em Java, Python e Docker explorando seu potenc
 <img align="right" src="https://media1.tenor.com/m/BlVMrf8bHTsAAAAd/knight-xbox.gif" alt="tux-dev" width="350" height="190" pacing="20"/>
 
 ### Contato
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/thiagoassilva)
+[![Beacons](https://img.shields.io/badge/beacons-ACFF00?style=for-the-badge&logo=beacons&logoColor=0F1013)](https://beacons.ai/thiagoassilva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoantonio2108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassilva/)
 
